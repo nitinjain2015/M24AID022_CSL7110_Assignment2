@@ -5,7 +5,7 @@ Environment: Windows 11 Frameworks: Google Collab
 
 Overview : This repository contains the code , files, datasets used for Min-Hashing and LSH Assignment2 for CSL7110.
 
-Collab Code File incluing output : M24AID022_CSL7110_Assignment2.ipynb
+Collab Code File including output : M24AID022_CSL7110_Assignment2.ipynb
 
 minhash.zip : Zip file for Q1-Q3, it has 4 text files - D1, D2, D3, D4
 
